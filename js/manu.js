@@ -1,4 +1,4 @@
 // Manu JS
 
 console.log("Hello!");
-console.log("My name is Leo");
+console.log("My name is Emmanuel");
